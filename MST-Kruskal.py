@@ -3,7 +3,7 @@
 """
 # @Author        : zhangyan
 # @Email         : zhangyan1220zj@163.com
-# @FileName      : deal_tree.py
+# @FileName      : MST-Kruskal.py
 # @Time          : 2024-09-25 20:30:23
 # @description   : Analysis of Minimum Spanning Tree using Kruskal's Algorithm
 """
